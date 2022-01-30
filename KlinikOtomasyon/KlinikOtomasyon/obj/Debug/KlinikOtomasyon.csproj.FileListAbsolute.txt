@@ -1,0 +1,9 @@
+c:\users\sweetr\documents\visual studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\bin\Debug\KlinikOtomasyon.exe.config
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\bin\Debug\KlinikOtomasyon.exe
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\bin\Debug\KlinikOtomasyon.pdb
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.Form1.resources
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.Properties.Resources.resources
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.csproj.GenerateResource.Cache
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.exe
+C:\Users\SweeTR\Documents\Visual Studio 2013\Projects\KlinikOtomasyon\KlinikOtomasyon\obj\Debug\KlinikOtomasyon.pdb
